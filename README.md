@@ -4,7 +4,7 @@ ________________________________________
 About
 "JourneyTracker" project introduces an innovative and user-friendly solution designed to empower college students in managing their academic journeys and preparing for the professional world.<br>
 It's like a digital toolbox that simplifies the process of creating professional resumes while providing an efficient means of maintaining academic records.
- ![image](https://github.com/mustafamk8/JourneyTracker-/assets/85062314/b974d909-30d5-45d3-9412-5804bd89344f)
+ ![image](https://github.com/mustafamk8/JourneyTracker-/assets/85062314/b974d909-30d5-45d3-9412-5804bd89344f)<br>
 <br>
 This Website is built for following purpose:-<br>
 •	For managing students professional data.<br>
@@ -74,10 +74,10 @@ ________________________________________<br>
 Note:- Considering this as a Sample Project, we have not much considered of web security.<br>
 Some Screenshots for the project:<br>
  
- ![image](https://github.com/mustafamk8/JourneyTracker-/assets/85062314/cb653150-3940-4a49-8a6a-fb98592875cb)<br>
- ![image](https://github.com/mustafamk8/JourneyTracker-/assets/85062314/b6010795-3a07-46df-bf91-5ad0bea9c9f5)<br>
-![image](https://github.com/mustafamk8/JourneyTracker-/assets/85062314/f5811f38-ebba-473e-a12a-90578fd67d76)<br>
-![image](https://github.com/mustafamk8/JourneyTracker-/assets/85062314/910f8d3e-fe03-4c00-8348-c32de349b088)<br>
+ ![image](https://github.com/mustafamk8/JourneyTracker-/assets/85062314/cb653150-3940-4a49-8a6a-fb98592875cb)<br><br><br>
+ ![image](https://github.com/mustafamk8/JourneyTracker-/assets/85062314/b6010795-3a07-46df-bf91-5ad0bea9c9f5)<br><br><br>
+![image](https://github.com/mustafamk8/JourneyTracker-/assets/85062314/f5811f38-ebba-473e-a12a-90578fd67d76)<br><br><br>
+![image](https://github.com/mustafamk8/JourneyTracker-/assets/85062314/910f8d3e-fe03-4c00-8348-c32de349b088)<br><br><br>
 
 
 "Suggestions and project improvement ideas are welcomed!"<br>
