@@ -83,9 +83,9 @@ Some Screenshots for the project:<br>
 "Suggestions and project improvement ideas are welcomed!"<br>
 Thanks a lot,<br>
 Team Member :-<br>
-<h2>Mohd Mustafa</h2><br>
-<h2>Nandini Mehta</h2><br>
-<h2>Nirnay Agarwal</h2><br>
-<h2>Palash Shah</h2><br> 
+<h4>Mohd Mustafa</h4>
+<h4>Nandini Mehta</h4>
+<h4>Nirnay Agarwal</h4>
+<h4>Palash Shah</h4>
 
 
